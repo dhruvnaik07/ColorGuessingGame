@@ -18,3 +18,8 @@ JavaScript\
 DOM Manipulation
 
 ## Screenshots
+![screenshot_1](https://user-images.githubusercontent.com/37359125/53103168-17aa8e80-34fb-11e9-9a63-8c32a4b1ae23.png)
+![screenshot_2](https://user-images.githubusercontent.com/37359125/53103169-17aa8e80-34fb-11e9-8262-f0ae0eaea5a1.png)
+![screenshot_3](https://user-images.githubusercontent.com/37359125/53103170-17aa8e80-34fb-11e9-8ff8-904854267b54.png)
+![screenshot_4](https://user-images.githubusercontent.com/37359125/53103171-17aa8e80-34fb-11e9-8e4b-062c49685636.png)
+![screenshot_5](https://user-images.githubusercontent.com/37359125/53103166-1711f800-34fb-11e9-8b2c-72928a259bc5.png)
