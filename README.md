@@ -1,5 +1,8 @@
 # ColorGuessingGame
 
+## Website Link
+https://color-guessing-game-site.herokuapp.com/colorGame.html
+
 ## Introduction
 
 Color Guessing Game is an online game, where user has to guess the correct color from the given RGB (Red, Green, Blue) value to win the game.\
