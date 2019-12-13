@@ -1,7 +1,7 @@
 # ColorGuessingGame
 
 ## Website Link
-https://color-guessing-game-site.herokuapp.com/colorGame.html
+https://guessthecolorgame.herokuapp.com/
 
 ## Introduction
 
